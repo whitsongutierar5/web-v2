@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whitsongutierar5.github.io/web-v2/sitemap.xml
